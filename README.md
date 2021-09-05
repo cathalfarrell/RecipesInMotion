@@ -7,9 +7,9 @@ Check that the dependency Alamofire is installed via Swift Package Manager, or u
 Install Swiftlint if you want to check for Swiftlint warnings.
 
 ### How to use
-*The first tab "My Ingredients" - simply displays all of my ingredients
-*The last tab "All Recipes" - simply displays all of my recipes
-*The most important tab is in the middle "Available Recipes" tab which shows the ingredients and
+* The first tab "My Ingredients" - simply displays all of my ingredients
+* The last tab "All Recipes" - simply displays all of my recipes
+* The most important tab is in the middle "Available Recipes" tab which shows the ingredients and
 only displays those recipes that can be made using my ingredients.
 
 ### Architecture
@@ -24,10 +24,10 @@ You shall find the network call to get the ingredients and the local JSON parsin
 in the services folder.
 
 ### Final Notes
-*Though, I was told to spend only 3 hours on this, I spent considerably more. 
-*The first hour was spent on getting the services and parsing correct
-*The second hour on setting up the units tests
-*A third hour laying out the components and then a couple of more hours, testing tweaking and improving.
+* Though, I was told to spend only 3 hours on this, I spent considerably more. 
+* The first hour was spent on getting the services and parsing correct
+* The second hour on setting up the units tests
+* A third hour laying out the components and then a couple of more hours, testing tweaking and improving.
 
-*In a real build screnario, of course I would include Reachability to test for network connectivity and add error handling etc
+* In a real build screnario, of course I would include Reachability to test for network connectivity and add error handling etc
 but I have put enough time into it for now that I hope it is acceptable.
