@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C1131F226E4D6ED009F956C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8C1131F126E4D6ED009F956C /* README.md */; };
 		8C322A4C26DFEA8600284E79 /* RecipesInMotionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C322A4B26DFEA8600284E79 /* RecipesInMotionTests.swift */; };
 		8C37ADBC26E11DF200596BB8 /* AvailableRecipesPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C37ADB626E11DF200596BB8 /* AvailableRecipesPresenter.swift */; };
 		8C37ADBD26E11DF200596BB8 /* AvailableRecipesWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C37ADB726E11DF200596BB8 /* AvailableRecipesWorker.swift */; };
@@ -56,6 +57,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8C1131F126E4D6ED009F956C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8C322A4926DFEA8600284E79 /* RecipesInMotionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RecipesInMotionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C322A4B26DFEA8600284E79 /* RecipesInMotionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipesInMotionTests.swift; sourceTree = "<group>"; };
 		8C322A4D26DFEA8600284E79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 		8C4E4ECF26DE938900175B9A = {
 			isa = PBXGroup;
 			children = (
+				8C1131F126E4D6ED009F956C /* README.md */,
 				8C4E4EEF26DE939900175B9A /* MyRecipes.json */,
 				8C4E4EDA26DE938900175B9A /* RecipesInMotion */,
 				8C322A4A26DFEA8600284E79 /* RecipesInMotionTests */,
@@ -343,6 +346,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C1131F226E4D6ED009F956C /* README.md in Resources */,
 				8C4E4EE826DE938A00175B9A /* LaunchScreen.storyboard in Resources */,
 				8CDEFE0F26E218D70056FA5D /* IngredientTableViewCell.xib in Resources */,
 				8C4E4EF026DE939900175B9A /* MyRecipes.json in Resources */,
